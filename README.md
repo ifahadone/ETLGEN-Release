@@ -1,4 +1,6 @@
 # Get started
+Welcome to ETLGEN Documentation
+![img_2.png](assets/img_2.png)
 
 ## Operating System
 
