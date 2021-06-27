@@ -118,13 +118,3 @@ Now you can run the bash file with nohup and & for detached background jobs
 ```
 nohup ./xxx.sh &
 ```
-
-# SAMPLE DEMO OF FULL PROCESS
-
-by the time you are watching this the program might get an update or some part of it might be changed, but the concept will be consistent, thank you!
-
-## Compile
-
-## Deploy
-
-## Start Sync
