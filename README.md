@@ -1,3 +1,7 @@
+# DOWNLOAD LATEST RELEASE
+[![GitHub release](https://img.shields.io/github/release/mnizfahad/ETLGEN-Release?include_prereleases=&sort=semver)](https://github.com/mnizfahad/ETLGEN-Release/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 # Get started
 Welcome to ETLGEN Documentation
 ![img_2.png](assets/img_2.png)
